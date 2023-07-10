@@ -1,0 +1,462 @@
+9:02:31 PM  [main] 	Initializing Control Panel
+9:02:31 PM  [main] 	Windows Version:  Enterprise  64-bit
+9:02:31 PM  [main] 	XAMPP Version: 7.4.28
+9:02:31 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+9:02:31 PM  [main] 	You are not running with administrator rights! This will work for
+9:02:31 PM  [main] 	most application stuff but whenever you do something with services
+9:02:31 PM  [main] 	there will be a security dialogue or things will break! So think 
+9:02:31 PM  [main] 	about running this application with administrator rights!
+9:02:31 PM  [main] 	XAMPP Installation Directory: "e:\moodle\server\"
+9:02:31 PM  [main] 	Checking for prerequisites
+9:02:31 PM  [main] 	All prerequisites found
+9:02:31 PM  [main] 	Initializing Modules
+9:02:31 PM  [main] 	The FileZilla module is disabled
+9:02:31 PM  [main] 	The Mercury module is disabled
+9:02:31 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+9:02:31 PM  [Tomcat] 	Disabling Tomcat buttons
+9:02:31 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+9:02:31 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+9:02:31 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+9:02:31 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+9:02:31 PM  [main] 	Starting Check-Timer
+9:02:31 PM  [main] 	Control Panel Ready
+9:02:39 PM  [Apache] 	Attempting to start Apache app...
+9:02:39 PM  [Apache] 	Status change detected: running
+9:02:40 PM  [Apache] 	Status change detected: stopped
+9:02:40 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:02:40 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:02:40 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:02:40 PM  [Apache] 	Press the Logs button to view error logs and check
+9:02:40 PM  [Apache] 	the Windows Event Viewer for more clues
+9:02:40 PM  [Apache] 	If you need more help, copy and post this
+9:02:40 PM  [Apache] 	entire log window on the forums
+9:02:40 PM  [mysql] 	Attempting to start MySQL app...
+9:02:40 PM  [mysql] 	Status change detected: running
+9:02:41 PM  [mysql] 	Status change detected: stopped
+9:02:41 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+9:02:41 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+9:02:41 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+9:02:41 PM  [mysql] 	Press the Logs button to view error logs and check
+9:02:41 PM  [mysql] 	the Windows Event Viewer for more clues
+9:02:41 PM  [mysql] 	If you need more help, copy and post this
+9:02:41 PM  [mysql] 	entire log window on the forums
+9:03:08 PM  [Apache] 	Status change detected: running
+9:03:08 PM  [mysql] 	Status change detected: running
+9:03:21 PM  [Apache] 	Status change detected: stopped
+9:03:21 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:03:21 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:03:21 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:03:21 PM  [Apache] 	Press the Logs button to view error logs and check
+9:03:21 PM  [Apache] 	the Windows Event Viewer for more clues
+9:03:21 PM  [Apache] 	If you need more help, copy and post this
+9:03:21 PM  [Apache] 	entire log window on the forums
+9:03:27 PM  [Apache] 	Status change detected: running
+9:03:39 PM  [Apache] 	Status change detected: stopped
+9:03:39 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:03:39 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:03:39 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:03:39 PM  [Apache] 	Press the Logs button to view error logs and check
+9:03:39 PM  [Apache] 	the Windows Event Viewer for more clues
+9:03:39 PM  [Apache] 	If you need more help, copy and post this
+9:03:39 PM  [Apache] 	entire log window on the forums
+9:03:44 PM  [Apache] 	Status change detected: running
+9:04:00 PM  [Apache] 	Status change detected: stopped
+9:04:00 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:04:00 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:04:00 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:04:00 PM  [Apache] 	Press the Logs button to view error logs and check
+9:04:00 PM  [Apache] 	the Windows Event Viewer for more clues
+9:04:00 PM  [Apache] 	If you need more help, copy and post this
+9:04:00 PM  [Apache] 	entire log window on the forums
+9:04:50 PM  [Apache] 	Status change detected: running
+9:05:02 PM  [Apache] 	Status change detected: stopped
+9:05:02 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:05:02 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:05:02 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:05:02 PM  [Apache] 	Press the Logs button to view error logs and check
+9:05:02 PM  [Apache] 	the Windows Event Viewer for more clues
+9:05:02 PM  [Apache] 	If you need more help, copy and post this
+9:05:02 PM  [Apache] 	entire log window on the forums
+9:11:57 PM  [mysql] 	Attempting to stop MySQL app...
+9:11:57 PM  [mysql] 	Status change detected: stopped
+9:11:58 PM  [main] 	Deinitializing Modules
+9:11:58 PM  [main] 	Deinitializing Control Panel
+
+9:12:13 PM  [main] 	Initializing Control Panel
+9:12:13 PM  [main] 	Windows Version:  Enterprise  64-bit
+9:12:13 PM  [main] 	XAMPP Version: 7.4.28
+9:12:13 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+9:12:13 PM  [main] 	You are not running with administrator rights! This will work for
+9:12:13 PM  [main] 	most application stuff but whenever you do something with services
+9:12:13 PM  [main] 	there will be a security dialogue or things will break! So think 
+9:12:13 PM  [main] 	about running this application with administrator rights!
+9:12:13 PM  [main] 	XAMPP Installation Directory: "e:\moodle\server\"
+9:12:13 PM  [main] 	Checking for prerequisites
+9:12:13 PM  [main] 	All prerequisites found
+9:12:13 PM  [main] 	Initializing Modules
+9:12:13 PM  [main] 	The FileZilla module is disabled
+9:12:13 PM  [main] 	The Mercury module is disabled
+9:12:13 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+9:12:13 PM  [Tomcat] 	Disabling Tomcat buttons
+9:12:13 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+9:12:13 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+9:12:13 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+9:12:13 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+9:12:13 PM  [main] 	Starting Check-Timer
+9:12:13 PM  [main] 	Control Panel Ready
+9:12:19 PM  [main] 	Deinitializing Modules
+9:12:19 PM  [main] 	Deinitializing Control Panel
+
+9:12:23 PM  [main] 	Initializing Control Panel
+9:12:23 PM  [main] 	Windows Version:  Enterprise  64-bit
+9:12:23 PM  [main] 	XAMPP Version: 7.4.28
+9:12:23 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+9:12:23 PM  [main] 	Running with Administrator rights - good!
+9:12:23 PM  [main] 	XAMPP Installation Directory: "e:\moodle\server\"
+9:12:23 PM  [main] 	Checking for prerequisites
+9:12:23 PM  [main] 	All prerequisites found
+9:12:23 PM  [main] 	Initializing Modules
+9:12:23 PM  [main] 	The FileZilla module is disabled
+9:12:23 PM  [main] 	The Mercury module is disabled
+9:12:23 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+9:12:23 PM  [Tomcat] 	Disabling Tomcat buttons
+9:12:23 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+9:12:23 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+9:12:23 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+9:12:23 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+9:12:23 PM  [main] 	Starting Check-Timer
+9:12:23 PM  [main] 	Control Panel Ready
+9:12:31 PM  [Apache] 	Status change detected: running
+9:12:31 PM  [mysql] 	Status change detected: running
+10:17:12 PM  [mysql] 	Status change detected: stopped
+10:17:12 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:17:12 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:17:13 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:17:13 PM  [mysql] 	Press the Logs button to view error logs and check
+10:17:13 PM  [mysql] 	the Windows Event Viewer for more clues
+10:17:13 PM  [mysql] 	If you need more help, copy and post this
+10:17:13 PM  [mysql] 	entire log window on the forums
+10:17:13 PM  [Apache] 	Status change detected: stopped
+10:17:13 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+10:17:13 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+10:17:13 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+10:17:13 PM  [Apache] 	Press the Logs button to view error logs and check
+10:17:13 PM  [Apache] 	the Windows Event Viewer for more clues
+10:17:13 PM  [Apache] 	If you need more help, copy and post this
+10:17:13 PM  [Apache] 	entire log window on the forums
+10:17:29 PM  [main] 	Deinitializing Modules
+10:17:29 PM  [main] 	Deinitializing Control Panel
+
+7:19:00 AM  [main] 	Initializing Control Panel
+7:19:00 AM  [main] 	Windows Version:  Enterprise  64-bit
+7:19:00 AM  [main] 	XAMPP Version: 7.4.28
+7:19:00 AM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+7:19:00 AM  [main] 	Running with Administrator rights - good!
+7:19:00 AM  [main] 	XAMPP Installation Directory: "e:\moodle\server\"
+7:19:00 AM  [main] 	Checking for prerequisites
+7:19:01 AM  [main] 	All prerequisites found
+7:19:01 AM  [main] 	Initializing Modules
+7:19:01 AM  [main] 	The FileZilla module is disabled
+7:19:01 AM  [main] 	The Mercury module is disabled
+7:19:01 AM  [Tomcat] 	Problem detected: Tomcat Not Found!
+7:19:01 AM  [Tomcat] 	Disabling Tomcat buttons
+7:19:01 AM  [Tomcat] 	Run this program from your XAMPP root directory!
+7:19:01 AM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+7:19:01 AM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+7:19:01 AM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+7:19:01 AM  [main] 	Starting Check-Timer
+7:19:01 AM  [main] 	Control Panel Ready
+7:19:16 AM  [Apache] 	Status change detected: running
+7:19:16 AM  [mysql] 	Status change detected: running
+7:39:39 AM  [mysql] 	Status change detected: stopped
+7:39:39 AM  [mysql] 	Error: MySQL shutdown unexpectedly.
+7:39:39 AM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+7:39:39 AM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+7:39:39 AM  [mysql] 	Press the Logs button to view error logs and check
+7:39:39 AM  [mysql] 	the Windows Event Viewer for more clues
+7:39:39 AM  [mysql] 	If you need more help, copy and post this
+7:39:39 AM  [mysql] 	entire log window on the forums
+7:39:41 AM  [Apache] 	Status change detected: stopped
+7:39:41 AM  [Apache] 	Error: Apache shutdown unexpectedly.
+7:39:41 AM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+7:39:41 AM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+7:39:41 AM  [Apache] 	Press the Logs button to view error logs and check
+7:39:41 AM  [Apache] 	the Windows Event Viewer for more clues
+7:39:41 AM  [Apache] 	If you need more help, copy and post this
+7:39:41 AM  [Apache] 	entire log window on the forums
+7:42:54 AM  [main] 	Deinitializing Modules
+7:42:54 AM  [main] 	Deinitializing Control Panel
+
+7:29:47 AM  [main] 	Initializing Control Panel
+7:29:47 AM  [main] 	Windows Version:  Enterprise  64-bit
+7:29:47 AM  [main] 	XAMPP Version: 7.4.28
+7:29:47 AM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+7:29:47 AM  [main] 	Running with Administrator rights - good!
+7:29:47 AM  [main] 	XAMPP Installation Directory: "e:\moodle\server\"
+7:29:47 AM  [main] 	Checking for prerequisites
+7:29:48 AM  [main] 	All prerequisites found
+7:29:48 AM  [main] 	Initializing Modules
+7:29:48 AM  [main] 	The FileZilla module is disabled
+7:29:48 AM  [main] 	The Mercury module is disabled
+7:29:48 AM  [Tomcat] 	Problem detected: Tomcat Not Found!
+7:29:48 AM  [Tomcat] 	Disabling Tomcat buttons
+7:29:48 AM  [Tomcat] 	Run this program from your XAMPP root directory!
+7:29:48 AM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+7:29:48 AM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+7:29:48 AM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+7:29:48 AM  [main] 	Starting Check-Timer
+7:29:48 AM  [main] 	Control Panel Ready
+7:29:51 AM  [Apache] 	Attempting to start Apache app...
+7:29:51 AM  [Apache] 	Status change detected: running
+7:29:52 AM  [mysql] 	Attempting to start MySQL app...
+7:29:52 AM  [mysql] 	Status change detected: running
+7:30:32 AM  [Apache] 	Attempting to stop Apache (PID: 9744)
+7:30:32 AM  [Apache] 	Attempting to stop Apache (PID: 288)
+7:30:32 AM  [Apache] 	Status change detected: stopped
+7:30:32 AM  [mysql] 	Attempting to stop MySQL app...
+7:30:32 AM  [mysql] 	Status change detected: stopped
+7:30:34 AM  [main] 	Deinitializing Modules
+7:30:34 AM  [main] 	Deinitializing Control Panel
+
+7:30:49 AM  [main] 	Initializing Control Panel
+7:30:49 AM  [main] 	Windows Version:  Enterprise  64-bit
+7:30:49 AM  [main] 	XAMPP Version: 7.4.28
+7:30:49 AM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+7:30:49 AM  [main] 	Running with Administrator rights - good!
+7:30:49 AM  [main] 	XAMPP Installation Directory: "e:\moodle\server\"
+7:30:49 AM  [main] 	Checking for prerequisites
+7:30:49 AM  [main] 	All prerequisites found
+7:30:49 AM  [main] 	Initializing Modules
+7:30:49 AM  [Apache] 	XAMPP Apache is already running on port 80
+7:30:49 AM  [Apache] 	XAMPP Apache is already running on port 443
+7:30:49 AM  [mysql] 	XAMPP MySQL is already running on port 3306
+7:30:49 AM  [main] 	The FileZilla module is disabled
+7:30:49 AM  [main] 	The Mercury module is disabled
+7:30:49 AM  [Tomcat] 	Problem detected: Tomcat Not Found!
+7:30:49 AM  [Tomcat] 	Disabling Tomcat buttons
+7:30:49 AM  [Tomcat] 	Run this program from your XAMPP root directory!
+7:30:49 AM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+7:30:49 AM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+7:30:49 AM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+7:30:49 AM  [main] 	Starting Check-Timer
+7:30:49 AM  [main] 	Control Panel Ready
+7:37:09 AM  [mysql] 	Attempting to stop MySQL app...
+7:37:10 AM  [mysql] 	Status change detected: stopped
+7:37:10 AM  [Apache] 	Attempting to stop Apache (PID: 18276)
+7:37:10 AM  [Apache] 	Attempting to stop Apache (PID: 1652)
+7:37:11 AM  [Apache] 	Status change detected: stopped
+7:37:17 AM  [Apache] 	Status change detected: running
+7:37:17 AM  [mysql] 	Status change detected: running
+7:39:38 AM  [mysql] 	Status change detected: stopped
+7:39:39 AM  [Apache] 	Status change detected: stopped
+7:40:01 AM  [main] 	Deinitializing Modules
+7:40:01 AM  [main] 	Deinitializing Control Panel
+
+8:40:27 AM  [main] 	Initializing Control Panel
+8:40:27 AM  [main] 	Windows Version:  Enterprise  64-bit
+8:40:27 AM  [main] 	XAMPP Version: 7.4.28
+8:40:27 AM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+8:40:27 AM  [main] 	Running with Administrator rights - good!
+8:40:27 AM  [main] 	XAMPP Installation Directory: "e:\moodle\server\"
+8:40:27 AM  [main] 	Checking for prerequisites
+8:40:28 AM  [main] 	All prerequisites found
+8:40:28 AM  [main] 	Initializing Modules
+8:40:28 AM  [Apache] 	XAMPP Apache is already running on port 80
+8:40:28 AM  [Apache] 	XAMPP Apache is already running on port 443
+8:40:28 AM  [mysql] 	XAMPP MySQL is already running on port 3306
+8:40:28 AM  [main] 	The FileZilla module is disabled
+8:40:28 AM  [main] 	The Mercury module is disabled
+8:40:28 AM  [Tomcat] 	Problem detected: Tomcat Not Found!
+8:40:28 AM  [Tomcat] 	Disabling Tomcat buttons
+8:40:28 AM  [Tomcat] 	Run this program from your XAMPP root directory!
+8:40:28 AM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+8:40:28 AM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+8:40:28 AM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+8:40:28 AM  [main] 	Starting Check-Timer
+8:40:28 AM  [main] 	Control Panel Ready
+8:41:28 AM  [Apache] 	Attempting to stop Apache (PID: 4760)
+8:41:28 AM  [Apache] 	Attempting to stop Apache (PID: 6392)
+8:41:28 AM  [Apache] 	Status change detected: stopped
+8:41:29 AM  [mysql] 	Attempting to stop MySQL app...
+8:41:29 AM  [mysql] 	Status change detected: stopped
+8:41:34 AM  [Apache] 	Status change detected: running
+8:41:34 AM  [mysql] 	Status change detected: running
+8:47:38 AM  [mysql] 	Status change detected: stopped
+8:47:39 AM  [Apache] 	Status change detected: stopped
+8:48:16 AM  [main] 	Deinitializing Modules
+8:48:16 AM  [main] 	Deinitializing Control Panel
+
+6:11:23 PM  [main] 	Initializing Control Panel
+6:11:23 PM  [main] 	Windows Version:  Enterprise  64-bit
+6:11:23 PM  [main] 	XAMPP Version: 7.4.28
+6:11:23 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+6:11:23 PM  [main] 	Running with Administrator rights - good!
+6:11:23 PM  [main] 	XAMPP Installation Directory: "e:\moodle\server\"
+6:11:23 PM  [main] 	Checking for prerequisites
+6:11:24 PM  [main] 	All prerequisites found
+6:11:24 PM  [main] 	Initializing Modules
+6:11:24 PM  [main] 	The FileZilla module is disabled
+6:11:24 PM  [main] 	The Mercury module is disabled
+6:11:24 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+6:11:24 PM  [Tomcat] 	Disabling Tomcat buttons
+6:11:24 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+6:11:24 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+6:11:24 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+6:11:24 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+6:11:24 PM  [main] 	Starting Check-Timer
+6:11:24 PM  [main] 	Control Panel Ready
+6:11:30 PM  [Apache] 	Status change detected: running
+6:11:30 PM  [mysql] 	Status change detected: running
+7:41:00 PM  [mysql] 	Status change detected: stopped
+7:41:00 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+7:41:00 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+7:41:00 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+7:41:00 PM  [mysql] 	Press the Logs button to view error logs and check
+7:41:00 PM  [mysql] 	the Windows Event Viewer for more clues
+7:41:00 PM  [mysql] 	If you need more help, copy and post this
+7:41:00 PM  [mysql] 	entire log window on the forums
+7:41:01 PM  [Apache] 	Status change detected: stopped
+7:41:01 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+7:41:01 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+7:41:01 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+7:41:01 PM  [Apache] 	Press the Logs button to view error logs and check
+7:41:01 PM  [Apache] 	the Windows Event Viewer for more clues
+7:41:01 PM  [Apache] 	If you need more help, copy and post this
+7:41:01 PM  [Apache] 	entire log window on the forums
+11:20:18 PM  [main] 	Deinitializing Modules
+11:20:18 PM  [main] 	Deinitializing Control Panel
+
+9:04:42 AM  [main] 	Initializing Control Panel
+9:04:42 AM  [main] 	Windows Version:  Enterprise  64-bit
+9:04:42 AM  [main] 	XAMPP Version: 7.4.28
+9:04:42 AM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+9:04:42 AM  [main] 	Running with Administrator rights - good!
+9:04:42 AM  [main] 	XAMPP Installation Directory: "e:\moodle\server\"
+9:04:42 AM  [main] 	Checking for prerequisites
+9:04:43 AM  [main] 	All prerequisites found
+9:04:43 AM  [main] 	Initializing Modules
+9:04:43 AM  [main] 	The FileZilla module is disabled
+9:04:43 AM  [main] 	The Mercury module is disabled
+9:04:43 AM  [Tomcat] 	Problem detected: Tomcat Not Found!
+9:04:43 AM  [Tomcat] 	Disabling Tomcat buttons
+9:04:43 AM  [Tomcat] 	Run this program from your XAMPP root directory!
+9:04:43 AM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+9:04:43 AM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+9:04:43 AM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+9:04:43 AM  [main] 	Starting Check-Timer
+9:04:43 AM  [main] 	Control Panel Ready
+9:04:51 AM  [Apache] 	Status change detected: running
+9:04:52 AM  [mysql] 	Status change detected: running
+10:41:30 AM  [mysql] 	Status change detected: stopped
+10:41:30 AM  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:41:30 AM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:41:30 AM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:41:30 AM  [mysql] 	Press the Logs button to view error logs and check
+10:41:30 AM  [mysql] 	the Windows Event Viewer for more clues
+10:41:30 AM  [mysql] 	If you need more help, copy and post this
+10:41:30 AM  [mysql] 	entire log window on the forums
+10:41:31 AM  [Apache] 	Status change detected: stopped
+10:41:31 AM  [Apache] 	Error: Apache shutdown unexpectedly.
+10:41:31 AM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+10:41:31 AM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+10:41:31 AM  [Apache] 	Press the Logs button to view error logs and check
+10:41:31 AM  [Apache] 	the Windows Event Viewer for more clues
+10:41:31 AM  [Apache] 	If you need more help, copy and post this
+10:41:31 AM  [Apache] 	entire log window on the forums
+10:41:50 AM  [main] 	Deinitializing Modules
+10:41:50 AM  [main] 	Deinitializing Control Panel
+
+8:09:05 PM  [main] 	Initializing Control Panel
+8:09:05 PM  [main] 	Windows Version:  Enterprise  64-bit
+8:09:05 PM  [main] 	XAMPP Version: 7.4.28
+8:09:05 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+8:09:05 PM  [main] 	Running with Administrator rights - good!
+8:09:05 PM  [main] 	XAMPP Installation Directory: "e:\moodle\server\"
+8:09:05 PM  [main] 	Checking for prerequisites
+8:09:06 PM  [main] 	All prerequisites found
+8:09:06 PM  [main] 	Initializing Modules
+8:09:06 PM  [main] 	The FileZilla module is disabled
+8:09:06 PM  [main] 	The Mercury module is disabled
+8:09:06 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+8:09:06 PM  [Tomcat] 	Disabling Tomcat buttons
+8:09:06 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+8:09:06 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+8:09:06 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+8:09:06 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+8:09:06 PM  [main] 	Starting Check-Timer
+8:09:06 PM  [main] 	Control Panel Ready
+8:09:10 PM  [Apache] 	Status change detected: running
+8:09:10 PM  [mysql] 	Status change detected: running
+8:12:42 PM  [mysql] 	Status change detected: stopped
+8:12:42 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+8:12:42 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+8:12:42 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+8:12:42 PM  [mysql] 	Press the Logs button to view error logs and check
+8:12:42 PM  [mysql] 	the Windows Event Viewer for more clues
+8:12:42 PM  [mysql] 	If you need more help, copy and post this
+8:12:42 PM  [mysql] 	entire log window on the forums
+8:12:43 PM  [Apache] 	Status change detected: stopped
+8:12:43 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+8:12:43 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:12:43 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:12:43 PM  [Apache] 	Press the Logs button to view error logs and check
+8:12:43 PM  [Apache] 	the Windows Event Viewer for more clues
+8:12:43 PM  [Apache] 	If you need more help, copy and post this
+8:12:43 PM  [Apache] 	entire log window on the forums
+8:12:56 PM  [Apache] 	Status change detected: running
+8:12:56 PM  [mysql] 	Status change detected: running
+8:14:15 PM  [mysql] 	Status change detected: stopped
+8:14:15 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+8:14:15 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+8:14:15 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+8:14:15 PM  [mysql] 	Press the Logs button to view error logs and check
+8:14:15 PM  [mysql] 	the Windows Event Viewer for more clues
+8:14:15 PM  [mysql] 	If you need more help, copy and post this
+8:14:15 PM  [mysql] 	entire log window on the forums
+8:14:16 PM  [Apache] 	Status change detected: stopped
+8:14:16 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+8:14:16 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:14:16 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:14:16 PM  [Apache] 	Press the Logs button to view error logs and check
+8:14:16 PM  [Apache] 	the Windows Event Viewer for more clues
+8:14:16 PM  [Apache] 	If you need more help, copy and post this
+8:14:16 PM  [Apache] 	entire log window on the forums
+8:14:28 PM  [Apache] 	Status change detected: running
+8:14:28 PM  [mysql] 	Status change detected: running
+8:15:07 PM  [mysql] 	Status change detected: stopped
+8:15:07 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+8:15:07 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+8:15:07 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+8:15:07 PM  [mysql] 	Press the Logs button to view error logs and check
+8:15:07 PM  [mysql] 	the Windows Event Viewer for more clues
+8:15:07 PM  [mysql] 	If you need more help, copy and post this
+8:15:07 PM  [mysql] 	entire log window on the forums
+8:15:08 PM  [Apache] 	Status change detected: stopped
+8:15:08 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+8:15:08 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:15:08 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:15:08 PM  [Apache] 	Press the Logs button to view error logs and check
+8:15:08 PM  [Apache] 	the Windows Event Viewer for more clues
+8:15:08 PM  [Apache] 	If you need more help, copy and post this
+8:15:08 PM  [Apache] 	entire log window on the forums
+8:16:27 PM  [Apache] 	Status change detected: running
+8:16:27 PM  [mysql] 	Status change detected: running
+10:36:53 PM  [mysql] 	Status change detected: stopped
+10:36:53 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+10:36:53 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+10:36:53 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+10:36:53 PM  [mysql] 	Press the Logs button to view error logs and check
+10:36:53 PM  [mysql] 	the Windows Event Viewer for more clues
+10:36:53 PM  [mysql] 	If you need more help, copy and post this
+10:36:53 PM  [mysql] 	entire log window on the forums
+10:36:54 PM  [Apache] 	Status change detected: stopped
+10:36:54 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+10:36:54 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+10:36:54 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+10:36:54 PM  [Apache] 	Press the Logs button to view error logs and check
+10:36:54 PM  [Apache] 	the Windows Event Viewer for more clues
+10:36:54 PM  [Apache] 	If you need more help, copy and post this
+10:36:54 PM  [Apache] 	entire log window on the forums
+11:38:13 PM  [main] 	Deinitializing Modules
+11:38:13 PM  [main] 	Deinitializing Control Panel
+
