@@ -24,7 +24,7 @@ wherever you are and whenever you want. Access course content on mobile, tablet 
 -All courses|/course/
 -Course search|/course/search.php|_blank
 Site Administration|admin/search.php
-";s:12:"header3phone";s:0:"";s:10:"headerlogo";s:4:"Logo";s:20:"loginbackgroundimage";s:0:"";s:13:"loginposition";s:6:"Center";s:11:"navbarcolor";s:0:"";s:15:"navbarcontainer";s:1:"0";s:6:"preset";s:12:"default.scss";s:11:"presetfiles";s:0:"";s:4:"scss";s:742:".nav-item[data-key="mycourses"] {
+";s:12:"header3phone";s:0:"";s:10:"headerlogo";s:4:"Logo";s:20:"loginbackgroundimage";s:0:"";s:13:"loginposition";s:6:"Center";s:11:"navbarcolor";s:0:"";s:15:"navbarcontainer";s:1:"0";s:6:"preset";s:12:"default.scss";s:11:"presetfiles";s:0:"";s:4:"scss";s:984:".nav-item[data-key="mycourses"] {
      display:none
 }
 
@@ -55,5 +55,21 @@ background-color: #4272d7!important;
 
 .navbar-light .nav-link, .navbar-light .langbutton, .navbar-light .dropdown-toggle::after {
     color: white!important;
+}
+
+.usermenu .login a{
+color: white!important;
+}
+
+.courses .coursebox {
+margin-bottom: 2rem;
+}
+
+.courses .coursebox.odd {
+background-color: #e8e8e8!important;
+}
+
+.courses .coursebox.even {
+background-color: #e8e8e8!important;
 }
 ";s:7:"scsspre";s:0:"";s:9:"sitecolor";s:0:"";s:13:"sliderbutton1";s:0:"";s:13:"sliderbutton2";s:0:"";s:13:"sliderbutton3";s:6:"Button";s:13:"sliderbutton4";s:6:"Button";s:10:"slidercap1";s:0:"";s:10:"slidercap2";s:0:"";s:10:"slidercap3";s:0:"";s:10:"slidercap4";s:0:"";s:11:"slidercount";s:1:"2";s:12:"sliderdesing";s:1:"2";s:13:"sliderenabled";s:1:"1";s:12:"sliderimage1";s:16:"/slideimage1.jpg";s:12:"sliderimage2";s:16:"/slideimage2.jpg";s:12:"sliderimage3";s:0:"";s:12:"sliderimage4";s:0:"";s:29:"sliderimagealmondbpagesimple1";s:0:"";s:29:"sliderimagealmondbpagesimple2";s:0:"";s:22:"sliderimageblock02img1";s:0:"";s:22:"sliderimageblock02img2";s:0:"";s:22:"sliderimageblock02img3";s:0:"";s:22:"sliderimageblock04img1";s:0:"";s:22:"sliderimageblock04img2";s:0:"";s:22:"sliderimageblock04img3";s:0:"";s:22:"sliderimageblock04img4";s:0:"";s:22:"sliderimageblock04img5";s:0:"";s:22:"sliderimageblock04img6";s:0:"";s:22:"sliderimageblock04img7";s:0:"";s:22:"sliderimageblock04img8";s:0:"";s:21:"sliderimageblock05img";s:0:"";s:21:"sliderimageblock06img";s:0:"";s:22:"sliderimageblock10img1";s:0:"";s:22:"sliderimageblock10img2";s:0:"";s:22:"sliderimageblock10img3";s:0:"";s:22:"sliderimageblock19img1";s:0:"";s:22:"sliderimageblock19img2";s:0:"";s:22:"sliderimageblock19img3";s:0:"";s:22:"sliderimageblock19img4";s:0:"";s:22:"sliderimageblock19img5";s:0:"";s:22:"sliderimageblock19img6";s:0:"";s:13:"slideropacity";s:1:"0";s:16:"slidershowheight";s:3:"300";s:12:"slidertitle1";s:0:"";s:12:"slidertitle2";s:0:"";s:12:"slidertitle3";s:0:"";s:12:"slidertitle4";s:0:"";s:10:"sliderurl1";s:23:"http://www.example.com/";s:10:"sliderurl2";s:23:"http://www.example.com/";s:10:"sliderurl3";s:23:"http://www.example.com/";s:10:"sliderurl4";s:23:"http://www.example.com/";s:15:"unaddableblocks";s:45:"navigation,settings,course_list,section_links";s:7:"version";s:10:"2023041200";}

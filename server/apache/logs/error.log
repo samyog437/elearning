@@ -315,3 +315,113 @@ PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\m
 [Mon Jul 10 09:15:22.497455 2023] [mpm_winnt:notice] [pid 18684:tid 388] AH00422: Parent: Received shutdown signal -- Shutting down the server.
 [Mon Jul 10 09:15:24.509992 2023] [mpm_winnt:notice] [pid 19196:tid 352] AH00364: Child: All worker threads have exited.
 [Mon Jul 10 09:15:24.551306 2023] [mpm_winnt:notice] [pid 18684:tid 388] AH00430: Parent: Child process 19196 exited successfully.
+[Mon Jul 10 09:41:21.920441 2023] [ssl:warn] [pid 10696:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 10 09:41:21.955450 2023] [ssl:warn] [pid 10696:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Mon Jul 10 09:41:21.988477 2023] [mpm_winnt:notice] [pid 10696:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.28 configured -- resuming normal operations
+[Mon Jul 10 09:41:21.988477 2023] [mpm_winnt:notice] [pid 10696:tid 384] AH00456: Apache Lounge VC15 Server built: Mar 16 2022 15:48:38
+[Mon Jul 10 09:41:21.988477 2023] [core:notice] [pid 10696:tid 384] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/moodle/server/apache -f conf\\httpd.conf'
+[Mon Jul 10 09:41:21.993478 2023] [mpm_winnt:notice] [pid 10696:tid 384] AH00418: Parent: Created child process 5620
+[Mon Jul 10 09:41:22.393652 2023] [ssl:warn] [pid 5620:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 10 09:41:22.427028 2023] [ssl:warn] [pid 5620:tid 356] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Mon Jul 10 09:41:22.459099 2023] [mpm_winnt:notice] [pid 5620:tid 356] AH00354: Child: Starting 150 worker threads.
+[Mon Jul 10 09:50:45.197350 2023] [mpm_winnt:notice] [pid 10696:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 10 09:50:47.209407 2023] [mpm_winnt:notice] [pid 5620:tid 356] AH00364: Child: All worker threads have exited.
+[Mon Jul 10 09:50:47.297628 2023] [mpm_winnt:notice] [pid 10696:tid 384] AH00430: Parent: Child process 5620 exited successfully.
+[Thu Aug 10 18:37:17.762254 2023] [ssl:warn] [pid 1052:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 10 18:37:17.794458 2023] [ssl:warn] [pid 1052:tid 388] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Thu Aug 10 18:37:18.291302 2023] [mpm_winnt:notice] [pid 1052:tid 388] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.28 configured -- resuming normal operations
+[Thu Aug 10 18:37:18.291302 2023] [mpm_winnt:notice] [pid 1052:tid 388] AH00456: Apache Lounge VC15 Server built: Mar 16 2022 15:48:38
+[Thu Aug 10 18:37:18.291302 2023] [core:notice] [pid 1052:tid 388] AH00094: Command line: 'e:\\moodle\\server\\apache\\bin\\httpd.exe -d E:/moodle/server/apache'
+[Thu Aug 10 18:37:18.297365 2023] [mpm_winnt:notice] [pid 1052:tid 388] AH00418: Parent: Created child process 19180
+[Thu Aug 10 18:37:18.649295 2023] [ssl:warn] [pid 19180:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 10 18:37:18.672413 2023] [ssl:warn] [pid 19180:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Thu Aug 10 18:37:18.695389 2023] [mpm_winnt:notice] [pid 19180:tid 360] AH00354: Child: Starting 150 worker threads.
+[Thu Aug 10 18:37:21.635233 2023] [ssl:warn] [pid 7192:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 10 18:37:21.655237 2023] [core:warn] [pid 7192:tid 360] AH00098: pid file E:/moodle/server/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 10 18:37:21.656239 2023] [ssl:warn] [pid 7192:tid 360] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Thu Aug 10 18:37:21.676242 2023] [mpm_winnt:notice] [pid 7192:tid 360] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.28 configured -- resuming normal operations
+[Thu Aug 10 18:37:21.676242 2023] [mpm_winnt:notice] [pid 7192:tid 360] AH00456: Apache Lounge VC15 Server built: Mar 16 2022 15:48:38
+[Thu Aug 10 18:37:21.676242 2023] [core:notice] [pid 7192:tid 360] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/moodle/server/apache -f conf\\httpd.conf'
+[Thu Aug 10 18:37:21.681243 2023] [mpm_winnt:notice] [pid 7192:tid 360] AH00418: Parent: Created child process 23148
+[Thu Aug 10 18:37:21.934008 2023] [ssl:warn] [pid 23148:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Aug 10 18:37:21.957529 2023] [ssl:warn] [pid 23148:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Thu Aug 10 18:37:21.978705 2023] [mpm_winnt:notice] [pid 23148:tid 340] AH00354: Child: Starting 150 worker threads.
+[Thu Aug 10 21:26:10.732211 2023] [mpm_winnt:notice] [pid 7192:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 10 21:26:12.746116 2023] [mpm_winnt:notice] [pid 23148:tid 340] AH00364: Child: All worker threads have exited.
+[Thu Aug 10 21:26:12.806530 2023] [mpm_winnt:notice] [pid 7192:tid 360] AH00430: Parent: Child process 23148 exited successfully.
+[Sat Aug 19 23:50:57.051176 2023] [ssl:warn] [pid 16744:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 19 23:50:57.077323 2023] [ssl:warn] [pid 16744:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Sat Aug 19 23:50:57.610600 2023] [mpm_winnt:notice] [pid 16744:tid 364] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.28 configured -- resuming normal operations
+[Sat Aug 19 23:50:57.610600 2023] [mpm_winnt:notice] [pid 16744:tid 364] AH00456: Apache Lounge VC15 Server built: Mar 16 2022 15:48:38
+[Sat Aug 19 23:50:57.610600 2023] [core:notice] [pid 16744:tid 364] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/moodle/server/apache -f conf\\httpd.conf'
+[Sat Aug 19 23:50:57.616175 2023] [mpm_winnt:notice] [pid 16744:tid 364] AH00418: Parent: Created child process 19528
+[Sat Aug 19 23:50:57.964987 2023] [ssl:warn] [pid 19528:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 19 23:50:57.985337 2023] [ssl:warn] [pid 19528:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Sat Aug 19 23:50:58.007529 2023] [mpm_winnt:notice] [pid 19528:tid 396] AH00354: Child: Starting 150 worker threads.
+[Sun Aug 20 00:22:57.263070 2023] [mpm_winnt:notice] [pid 16744:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 20 00:22:59.283723 2023] [mpm_winnt:notice] [pid 19528:tid 396] AH00364: Child: All worker threads have exited.
+[Sun Aug 20 00:22:59.325179 2023] [mpm_winnt:notice] [pid 16744:tid 364] AH00430: Parent: Child process 19528 exited successfully.
+[Sun Aug 20 17:01:13.626800 2023] [ssl:warn] [pid 1612:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 20 17:01:13.652394 2023] [ssl:warn] [pid 1612:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Sun Aug 20 17:01:14.126004 2023] [mpm_winnt:notice] [pid 1612:tid 396] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.28 configured -- resuming normal operations
+[Sun Aug 20 17:01:14.126004 2023] [mpm_winnt:notice] [pid 1612:tid 396] AH00456: Apache Lounge VC15 Server built: Mar 16 2022 15:48:38
+[Sun Aug 20 17:01:14.126004 2023] [core:notice] [pid 1612:tid 396] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/moodle/server/apache -f conf\\httpd.conf'
+[Sun Aug 20 17:01:14.132269 2023] [mpm_winnt:notice] [pid 1612:tid 396] AH00418: Parent: Created child process 2960
+[Sun Aug 20 17:01:14.477115 2023] [ssl:warn] [pid 2960:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 20 17:01:14.499129 2023] [ssl:warn] [pid 2960:tid 420] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Sun Aug 20 17:01:14.523120 2023] [mpm_winnt:notice] [pid 2960:tid 420] AH00354: Child: Starting 150 worker threads.
+[Sun Aug 20 17:46:45.740926 2023] [mpm_winnt:notice] [pid 1612:tid 396] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 20 17:46:47.762753 2023] [mpm_winnt:notice] [pid 2960:tid 420] AH00364: Child: All worker threads have exited.
+[Sun Aug 20 17:46:47.806496 2023] [mpm_winnt:notice] [pid 1612:tid 396] AH00430: Parent: Child process 2960 exited successfully.
+[Sun Aug 20 17:56:42.693662 2023] [ssl:warn] [pid 15728:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 20 17:56:42.717773 2023] [ssl:warn] [pid 15728:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Sun Aug 20 17:56:42.739884 2023] [mpm_winnt:notice] [pid 15728:tid 384] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.28 configured -- resuming normal operations
+[Sun Aug 20 17:56:42.739884 2023] [mpm_winnt:notice] [pid 15728:tid 384] AH00456: Apache Lounge VC15 Server built: Mar 16 2022 15:48:38
+[Sun Aug 20 17:56:42.739884 2023] [core:notice] [pid 15728:tid 384] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/moodle/server/apache -f conf\\httpd.conf'
+[Sun Aug 20 17:56:42.746990 2023] [mpm_winnt:notice] [pid 15728:tid 384] AH00418: Parent: Created child process 4624
+[Sun Aug 20 17:56:43.089101 2023] [ssl:warn] [pid 4624:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Aug 20 17:56:43.112109 2023] [ssl:warn] [pid 4624:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Sun Aug 20 17:56:43.133740 2023] [mpm_winnt:notice] [pid 4624:tid 364] AH00354: Child: Starting 150 worker threads.
+[Sun Aug 20 18:04:19.000307 2023] [mpm_winnt:notice] [pid 15728:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Aug 20 18:04:21.016287 2023] [mpm_winnt:notice] [pid 4624:tid 364] AH00364: Child: All worker threads have exited.
+[Sun Aug 20 18:04:21.056610 2023] [mpm_winnt:notice] [pid 15728:tid 384] AH00430: Parent: Child process 4624 exited successfully.
+[Tue Aug 22 20:54:02.721554 2023] [ssl:warn] [pid 18460:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 22 20:54:02.750386 2023] [ssl:warn] [pid 18460:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Tue Aug 22 20:54:03.299025 2023] [mpm_winnt:notice] [pid 18460:tid 348] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.28 configured -- resuming normal operations
+[Tue Aug 22 20:54:03.299025 2023] [mpm_winnt:notice] [pid 18460:tid 348] AH00456: Apache Lounge VC15 Server built: Mar 16 2022 15:48:38
+[Tue Aug 22 20:54:03.299025 2023] [core:notice] [pid 18460:tid 348] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/moodle/server/apache -f conf\\httpd.conf'
+[Tue Aug 22 20:54:03.303500 2023] [mpm_winnt:notice] [pid 18460:tid 348] AH00418: Parent: Created child process 6636
+[Tue Aug 22 20:54:03.564721 2023] [ssl:warn] [pid 6636:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 22 20:54:03.587727 2023] [ssl:warn] [pid 6636:tid 340] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Tue Aug 22 20:54:03.610378 2023] [mpm_winnt:notice] [pid 6636:tid 340] AH00354: Child: Starting 150 worker threads.
+[Tue Aug 22 21:12:01.573678 2023] [mpm_winnt:notice] [pid 18460:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 22 21:12:03.602416 2023] [mpm_winnt:notice] [pid 6636:tid 340] AH00364: Child: All worker threads have exited.
+[Tue Aug 22 21:12:03.645727 2023] [mpm_winnt:notice] [pid 18460:tid 348] AH00430: Parent: Child process 6636 exited successfully.
+[Tue Aug 22 23:41:46.001479 2023] [ssl:warn] [pid 24892:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 22 23:41:46.027699 2023] [ssl:warn] [pid 24892:tid 380] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Tue Aug 22 23:41:46.506570 2023] [mpm_winnt:notice] [pid 24892:tid 380] AH00455: Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/7.4.28 configured -- resuming normal operations
+[Tue Aug 22 23:41:46.507577 2023] [mpm_winnt:notice] [pid 24892:tid 380] AH00456: Apache Lounge VC15 Server built: Mar 16 2022 15:48:38
+[Tue Aug 22 23:41:46.507577 2023] [core:notice] [pid 24892:tid 380] AH00094: Command line: 'apache\\bin\\httpd.exe -d E:/moodle/server/apache -f conf\\httpd.conf'
+[Tue Aug 22 23:41:46.510610 2023] [mpm_winnt:notice] [pid 24892:tid 380] AH00418: Parent: Created child process 23432
+[Tue Aug 22 23:41:46.764791 2023] [ssl:warn] [pid 23432:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Aug 22 23:41:46.788411 2023] [ssl:warn] [pid 23432:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: E:\\moodle\\server\\php\\ext\\sodium (The specified module could not be found.), E:\\moodle\\server\\php\\ext\\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+[Tue Aug 22 23:41:46.811531 2023] [mpm_winnt:notice] [pid 23432:tid 348] AH00354: Child: Starting 150 worker threads.
+[Tue Jul 11 23:45:38.311107 2023] [mpm_winnt:notice] [pid 24892:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jul 11 23:45:40.325731 2023] [mpm_winnt:notice] [pid 23432:tid 348] AH00364: Child: All worker threads have exited.
+[Tue Jul 11 23:45:40.364664 2023] [mpm_winnt:notice] [pid 24892:tid 380] AH00430: Parent: Child process 23432 exited successfully.
